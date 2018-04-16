@@ -6,7 +6,7 @@
  * @package  Laravel
  * @author   Taylor Otwell <taylor@laravel.com>
  */
-
+//2018.04.16 版控測試
 define('LARAVEL_START', microtime(true));
 
 /*
